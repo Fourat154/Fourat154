@@ -1,36 +1,36 @@
 # Welcome to My GitHub Profile! 👋
 
-Hi there! I'm [Your Name], a passionate developer who loves to create amazing things with code.
+Hello! I'm [Your Name], a passionate embedded systems enthusiast who loves bringing hardware and software together.
 
 ## 🔧 Technologies & Tools
 
-Here are some of the technologies and tools I love working with:
+Here are some of the technologies and tools I enjoy working with:
 
-- HTML, CSS, JavaScript
-- React
-- Node.js
+- Embedded C
+- ARM Cortex-M
+- Raspberry Pi
+- Arduino
 - Git
 
 ## 🌱 I'm currently learning
 
-I'm currently exploring new technologies and enhancing my skills in [Add the technology you're learning].
+I'm currently diving deeper into the world of real-time operating systems (RTOS) and exploring ways to optimize embedded code for efficiency.
 
 ## 🚀 My Projects
 
-Check out some of my projects:
+Check out some of my embedded projects:
 
-- [Project 1](link-to-project-1)
-- [Project 2](link-to-project-2)
-- [Project 3](link-to-project-3)
+- [Project 1](link-to-embedded-project-1)
+- [Project 2](link-to-embedded-project-2)
+- [Project 3](link-to-embedded-project-3)
 
-## Codeforces Statistics
+## Embedded Systems Logo
 
-[![Codeforces Profile](https://img.shields.io/badge/Codeforces-Profile-blue?style=flat-square&logo=codeforces)](https://codeforces.com/profile/ahmedchammam)
+[![Embedded Systems Logo](URL-TO-EMBEDDED-SYSTEMS-LOGO)](https://example.com)
 
-[![Codeforces Rating](https://img.shields.io/badge/Codeforces-Rating%3A-ff8c00?style=flat-square&logo=codeforces)](https://codeforces.com/profile/ahmedchammam)
-[![Codeforces Rank](https://img.shields.io/badge/Codeforces-Rank%3A-yellow?style=flat-square&logo=codeforces)](https://codeforces.com/profile/ahmedchammam)
-[![Codeforces Contributions](https://img.shields.io/badge/Codeforces-Contributions%3A-brightgreen?style=flat-square&logo=codeforces)](https://codeforces.com/profile/ahmedchammam)
+## Let's Connect
 
-Visit my [Codeforces Profile](https://codeforces.com/profile/ahmedchammam) to see my latest statistics.
+- LinkedIn: [Your LinkedIn Profile](link-to-linkedin-profile)
+- Twitter: [Your Twitter Profile](link-to-twitter-profile)
 
-Feel free to reach out! 😊
+Feel free to reach out and let's chat about embedded systems! 😊
