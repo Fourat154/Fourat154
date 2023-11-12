@@ -30,10 +30,10 @@ Check out some of my projects:
 
 Feel free to reach out! 😊
 
-<!-- Animation -->
+<!-- Creative Animation -->
 <details>
   <summary>🎉 Fun Fact: I Love Coding!</summary>
   <p align="center">
-    <img src="https://media.giphy.com/media/Y1zENbYDNx5F1iYtnG/giphy.gif" alt="Coder GIF" width="480" height="320">
+    <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Coding Cat GIF" width="480" height="320">
   </p>
 </details>
