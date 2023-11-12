@@ -23,17 +23,12 @@ Check out some of my projects:
 - [Project 2](link-to-project-2)
 - [Project 3](link-to-project-3)
 
-## 📫 Let's connect
+## Codeforces Statistics
 
-- LinkedIn: [Your LinkedIn Profile](link-to-linkedin-profile)
-- Twitter: [Your Twitter Profile](link-to-twitter-profile)
+[![Codeforces Profile](https://img.shields.io/badge/Codeforces-Profile-blue?style=flat-square&logo=codeforces)](https://codeforces.com/profile/ahmedchammam)
+
+[![Codeforces Rating](https://img.shields.io/badge/Codeforces-Rating%3A-ff8c00?style=flat-square&logo=codeforces)](https://codeforces.com/profile/ahmedchammam)
+[![Codeforces Rank](https://img.shields.io/badge/Codeforces-Rank%3A-yellow?style=flat-square&logo=codeforces)](https://codeforces.com/profile/ahmedchammam)
+[![Codeforces Contributions](https://img.shields.io/badge/Codeforces-Contributions%3A-brightgreen?style=flat-square&logo=codeforces)](https://codeforces.com/profile/ahmedchammam)
 
 Feel free to reach out! 😊
-
-<!-- Creative Animation -->
-<details>
-  <summary>🎉 Fun Fact: I Love Coding!</summary>
-  <p align="center">
-    <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Coding Cat GIF" width="480" height="320">
-  </p>
-</details>
