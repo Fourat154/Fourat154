@@ -25,10 +25,6 @@ Check out some of my projects:
 
 ## Codeforces Statistics
 
-[![Codeforces Profile](https://img.shields.io/badge/Codeforces-Profile-blue?style=flat-square&logo=codeforces)](https://codeforces.com/profile/ahmedchammam)
-
-[![Codeforces Rating](https://img.shields.io/badge/Codeforces-Rating%3A-ff8c00?style=flat-square&logo=codeforces)](https://codeforces.com/profile/ahmedchammam)
-[![Codeforces Rank](https://img.shields.io/badge/Codeforces-Rank%3A-yellow?style=flat-square&logo=codeforces)](https://codeforces.com/profile/ahmedchammam)
-[![Codeforces Contributions](https://img.shields.io/badge/Codeforces-Contributions%3A-brightgreen?style=flat-square&logo=codeforces)](https://codeforces.com/profile/ahmedchammam)
+![Codeforces Statistics](https://cfviz.netlify.app/cfviz/ahmedchammam/dark/400/200)
 
 Feel free to reach out! 😊
