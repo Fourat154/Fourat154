@@ -25,6 +25,6 @@ Check out some of my projects:
 
 ## Codeforces Statistics
 
-![Codeforces Statistics](https://cfviz.netlify.app/cfviz/ahmedchammam/dark/400/200)
+Visit my [Codeforces Profile](https://codeforces.com/profile/ahmedchammam) to see my latest statistics.
 
 Feel free to reach out! 😊
