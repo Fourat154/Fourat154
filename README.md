@@ -1,36 +1,26 @@
-# Welcome to My GitHub Profile! 👋
+<h1 align="center">Hi 👋, I'm ahmed fourat chammam</h1>
+<h3 align="center">A passionate embedded systems developer from Tunisia</h3>
 
-Hello! I'm [Your Name], a passionate embedded systems enthusiast who loves bringing hardware and software together.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fourat154&label=Profile%20views&color=0e75b6&style=flat" alt="fourat154" /> </p>
 
-## 🔧 Technologies & Tools
+- 🔭 I’m currently working on **many**
 
-Here are some of the technologies and tools I enjoy working with:
+- 🌱 I’m currently learning **c , c++ , ros , autosar and others**
 
-- Embedded C
-- ARM Cortex-M
-- Raspberry Pi
-- Arduino
-- Git
+- 👯 I’m looking to collaborate on **any embedded project**
 
-## 🌱 I'm currently learning
+- 💬 Ask me about **embedded**
 
-I'm currently diving deeper into the world of real-time operating systems (RTOS) and exploring ways to optimize embedded code for efficiency.
+- 📫 How to reach me **ahmedfouratchammamchammam@gmail.com**
 
-## 🚀 My Projects
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codeforces.com/profile/ahmedchammam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ahmedchammam" height="30" width="40" /></a>
+</p>
 
-Check out some of my embedded projects:
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a> </p>
 
-- [Project 1](link-to-embedded-project-1)
-- [Project 2](link-to-embedded-project-2)
-- [Project 3](link-to-embedded-project-3)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fourat154&show_icons=true&locale=en" alt="fourat154" /></p>
 
-## Embedded Systems Logo
-
-[![Embedded Systems Logo](URL-TO-EMBEDDED-SYSTEMS-LOGO)](https://example.com)
-
-## Let's Connect
-
-- LinkedIn: [Your LinkedIn Profile](link-to-linkedin-profile)
-- Twitter: [Your Twitter Profile](link-to-twitter-profile)
-
-Feel free to reach out and let's chat about embedded systems! 😊
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fourat154&" alt="fourat154" /></p>
