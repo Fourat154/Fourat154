@@ -2,7 +2,7 @@
 <h3 align="center">A passionate embedded systems developer from Tunisia</h3>
 
 
-<p align="left">  <img src="https://i.pinimg.com/originals/7c/e9/e3/7ce9e34927261d3b035090cac779fec5.gif" alt="fourat154" /> </p>
+<p align="right" alt="Coding"  width = "400" src="https://i.pinimg.com/originals/7c/e9/e3/7ce9e34927261d3b035090cac779fec5.gif" alt="fourat154" /> </p>
 
 - 🔭 I’m currently working on **many**
 
